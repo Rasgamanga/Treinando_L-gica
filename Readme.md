@@ -1,4 +1,4 @@
-Todas as resoluções deste repositório são dos exercicios do Curso de Python do canal Curso em Video
+Todas as resoluções foram minhas, porém todos os exercícios deste repositorio foram do Curso de Python do canal Curso em Vídeo
 
 CURSO EM VIDEO NO YOUTUBE
 
